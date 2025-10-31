@@ -1,5 +1,18 @@
 {
 	"resource_pack_name": "UtilityCraft Nuclear",
 	"texture_name": "atlas.items",
-	"texture_data": {}
+	"texture_data": {
+		"utilitycraft_raw_lead": {
+			"textures": "textures/items/raw_lead"
+		},
+		"utilitycraft_lead_ingot": {
+			"textures": "textures/items/lead_ingot"
+		},
+		"utilitycraft_lead_plate": {
+			"textures": "textures/items/lead_plate"
+		},
+		"utilitycraft_raw_uranium": {
+			"textures": "textures/items/raw_uranium"
+		}
+	}
 }

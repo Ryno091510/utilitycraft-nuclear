@@ -1,2 +1,6 @@
-pack.name=UtilityCraft Nuclear RP
-pack.description=Adds nuclear capabilities to UtilityCraft, including for power generation and explosives.
+tile.utilitycraft:deepslate_lead_ore.name=Deepslate Lead Ore
+item.utilitycraft:raw_lead=Raw Lead
+item.utilitycraft:lead_ingot=Lead Ingot
+item.utilitycraft:lead_plate=Lead Plate
+tile.utilitycraft:deepslate_uranium_ore.name=Deepslate Uranium Ore
+item.utilitycraft:raw_uranium=Raw Uranium

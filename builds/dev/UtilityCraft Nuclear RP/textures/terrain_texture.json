@@ -1,7 +1,10 @@
 {
-	"num_mip_levels": 4,
-	"padding": 8,
-	"resource_pack_name": "UtilityCraft Nuclear",
-	"texture_name": "atlas.terrain",
-	"texture_data": {}
+	"texture_data": {
+		"utilitycraft_deepslate_lead_ore": {
+			"textures": "textures/blocks/deepslate_lead_ore"
+		},
+		"utilitycraft_deepslate_uranium_ore": {
+			"textures": "textures/blocks/deepslate_uranium_ore"
+		}
+	}
 }
