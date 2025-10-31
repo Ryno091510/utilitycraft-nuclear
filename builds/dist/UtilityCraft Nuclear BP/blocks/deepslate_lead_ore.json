@@ -5,22 +5,18 @@
 			"identifier": "utilitycraft:deepslate_lead_ore",
 			"menu_category": {
 				"category": "nature",
-				"group": "itemGroup.name.ores"
+				"group": "minecraft:itemGroup.name.ores"
 			}
 		},
 		"components": {
 			"minecraft:destructible_by_mining": {
-				"seconds_to_destroy": 1
+				"seconds_to_destroy": 0.5
 			},
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 1
 			},
 			"minecraft:map_color": "#ffffff",
-			"minecraft:material_instances": {
-				"*": {
-					"texture": "utilitycraft_deepslate_lead_ore"
-				}
-			}
+			"minecraft:loot": "loot_tables/lead_ore_loot.json"
 		}
 	}
 }

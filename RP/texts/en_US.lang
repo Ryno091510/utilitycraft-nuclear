@@ -1,4 +1,5 @@
-tile.utilitycraft:deepslate_lead_ore.name=Deepslate Lead Ore
+pack.name=UtilityCraft Nuclear BP
+pack.description=Adds nuclear capabilities to UtilityCraft, including for power generation and explosives.tile.utilitycraft:deepslate_lead_ore.name=Deepslate Lead Ore
 item.utilitycraft:raw_lead=Raw Lead
 item.utilitycraft:lead_ingot=Lead Ingot
 item.utilitycraft:lead_plate=Lead Plate

@@ -5,7 +5,8 @@
 			"identifier": "utilitycraft:lead_ore_to_ingot"
 		},
 		"tags": [
-			"furnace"
+			"furnace",
+			"blast_furnace"
 		],
 		"input": "utilitycraft:raw_lead",
 		"output": "utilitycraft:lead_ingot"
