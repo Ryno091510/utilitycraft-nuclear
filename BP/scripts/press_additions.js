@@ -7,5 +7,5 @@ world.afterEvents.worldLoad.subscribe(() => {
 
     system.sendScriptEvent("utilitycraft:register_press_recipe", JSON.stringify(newRecipes));
 
-    console.warn("[Addon] Custom press recipes registered via system event.");
+    console.warn("[UC Nuclear] Custom press recipes registered via system event.");
 });

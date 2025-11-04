@@ -22,11 +22,7 @@
 			90
 		],
 		"uuid": "cf0832aa-4dea-4213-9b66-d46e76ab4e2c",
-		"version": [
-			1,
-			0,
-			2
-		]
+		"version": "1.0.0-beta"
 	},
 	"modules": [
 		{

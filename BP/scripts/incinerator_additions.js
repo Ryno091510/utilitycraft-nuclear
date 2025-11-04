@@ -7,5 +7,5 @@ world.afterEvents.worldLoad.subscribe(() => {
 
     system.sendScriptEvent("utilitycraft:register_furnace_recipe", JSON.stringify(newRecipes));
 
-    console.warn("[Addon] Custom furnace recipes registered via system event.");
+    console.warn("[UC Nuclear] Custom furnace recipes registered via system event.");
 });

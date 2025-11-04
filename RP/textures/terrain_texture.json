@@ -5,6 +5,12 @@
 		},
 		"utilitycraft_deepslate_uranium_ore": {
 			"textures": "textures/blocks/deepslate_uranium_ore"
+		},
+		"utilitycraft_reactor_concrete": {
+			"textures": "textures/blocks/reactor_concrete"
+		},
+		"utilitycraft_reactor_glass": {
+			"textures": "textures/blocks/reactor_glass"
 		}
 	}
 }

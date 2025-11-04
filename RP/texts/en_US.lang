@@ -5,3 +5,5 @@ item.utilitycraft:lead_ingot=Lead Ingot
 item.utilitycraft:lead_plate=Lead Plate
 tile.utilitycraft:deepslate_uranium_ore.name=Deepslate Uranium Ore
 item.utilitycraft:raw_uranium=Raw Uranium
+tile.utilitycraft:reactor_concrete.name=Reactor Concrete
+tile.utilitycraft:reactor_glass.name=Reactor Glass
