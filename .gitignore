@@ -4,3 +4,5 @@ Desktop.ini
 .bridge/*
 !.bridge/compiler/
 !.bridge/extensions
+builds
+config
