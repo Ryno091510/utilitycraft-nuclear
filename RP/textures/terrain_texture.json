@@ -11,6 +11,9 @@
 		},
 		"utilitycraft_reactor_glass": {
 			"textures": "textures/blocks/reactor_glass"
+		},
+		"utilitycraft_basic_reactor": {
+			"textures": "textures/blocks/basic_reactor_off"
 		}
 	}
 }

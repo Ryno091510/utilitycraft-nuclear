@@ -14,5 +14,9 @@
 	"utilitycraft:reactor_glass": {
 		"sound": "stone",
 		"textures": "utilitycraft_reactor_glass"
+	},
+	"utilitycraft:basic_reactor": {
+		"sound": "stone",
+		"textures": "utilitycraft_basic_reactor"
 	}
 }

@@ -7,3 +7,4 @@ tile.utilitycraft:deepslate_uranium_ore.name=Deepslate Uranium Ore
 item.utilitycraft:raw_uranium=Raw Uranium
 tile.utilitycraft:reactor_concrete.name=Reactor Concrete
 tile.utilitycraft:reactor_glass.name=Reactor Glass
+tile.utilitycraft:basic_reactor.name=Basic Reactor
