@@ -8,3 +8,5 @@ item.utilitycraft:raw_uranium=Raw Uranium
 tile.utilitycraft:reactor_concrete.name=Reactor Concrete
 tile.utilitycraft:reactor_glass.name=Reactor Glass
 tile.utilitycraft:basic_reactor.name=Basic Reactor
+item.utilitycraft:nuclear_fuel=Nuclear Fuel
+item.utilitycraft:refined_uranium=Refined Uranium

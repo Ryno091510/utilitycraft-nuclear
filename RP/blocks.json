@@ -8,8 +8,7 @@
 		"textures": "utilitycraft_deepslate_uranium_ore"
 	},
 	"utilitycraft:reactor_concrete": {
-		"sound": "stone",
-		"textures": "utilitycraft_reactor_concrete"
+		"sound": "stone"
 	},
 	"utilitycraft:reactor_glass": {
 		"sound": "stone"

@@ -13,6 +13,12 @@
 		},
 		"utilitycraft_raw_uranium": {
 			"textures": "textures/items/raw_uranium"
+		},
+		"utilitycraft_nuclear_fuel": {
+			"textures": "textures/items/nuclear_fuel"
+		},
+		"utilitycraft_refined_uranium": {
+			"textures": "textures/items/refined_uranium"
 		}
 	}
 }
