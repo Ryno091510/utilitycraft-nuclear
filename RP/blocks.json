@@ -4,21 +4,21 @@
 		1,
 		0
 	],
-	"utilitycraft:deepslate_lead_ore": {
+	"utilitycraft:ryno_deepslate_lead_ore": {
 		"sound": "stone",
-		"textures": "utilitycraft_deepslate_lead_ore"
+		"textures": "utilitycraft_ryno_deepslate_lead_ore"
 	},
-	"utilitycraft:deepslate_uranium_ore": {
+	"utilitycraft:ryno_deepslate_uranium_ore": {
 		"sound": "stone",
-		"textures": "utilitycraft_deepslate_uranium_ore"
+		"textures": "utilitycraft_ryno_deepslate_uranium_ore"
 	},
-	"utilitycraft:reactor_concrete": {
+	"utilitycraft:ryno_reactor_concrete": {
 		"sound": "stone"
 	},
-	"utilitycraft:reactor_glass": {
+	"utilitycraft:ryno_reactor_glass": {
 		"sound": "stone"
 	},
-	"utilitycraft:basic_reactor": {
+	"utilitycraft:ryno_basic_reactor": {
 		"sound": "stone"
 	}
 }

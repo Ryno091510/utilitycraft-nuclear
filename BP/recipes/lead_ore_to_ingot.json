@@ -2,13 +2,13 @@
 	"format_version": "1.12",
 	"minecraft:recipe_furnace": {
 		"description": {
-			"identifier": "utilitycraft:lead_ore_to_ingot"
+			"identifier": "utilitycraft:ryno_ryno_lead_ore_to_ingot"
 		},
 		"tags": [
 			"furnace",
 			"blast_furnace"
 		],
-		"input": "utilitycraft:raw_lead",
-		"output": "utilitycraft:lead_ingot"
+		"input": "utilitycraft:ryno_raw_lead",
+		"output": "utilitycraft:ryno_lead_ingot"
 	}
 }

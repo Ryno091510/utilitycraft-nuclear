@@ -2,7 +2,7 @@
 	"format_version": "1.20.80",
 	"minecraft:block": {
 		"description": {
-			"identifier": "utilitycraft:basic_reactor",
+			"identifier": "utilitycraft:ryno_basic_reactor",
 			"menu_category": {
 				"category": "construction"
 			},
@@ -22,9 +22,9 @@
 			}
 		},
 		"components": {
-			"utilitycraft:basic_reactor": {
+			"utilitycraft:ryno_basic_reactor": {
 				"entity": {
-					"name": "reactor",
+					"name": "ryno_reactor",
 					"type": "simple"
 				},
 				"generator": {
@@ -35,7 +35,7 @@
 			"minecraft:geometry": "geometry.utilitycraft_block_2",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "utilitycraft_basic_reactor_off",
+					"texture": "utilitycraft_ryno_basic_reactor_off",
 					"render_method": "alpha_test"
 				}
 			},
@@ -108,7 +108,7 @@
 				"components": {
 					"minecraft:material_instances": {
 						"*": {
-							"texture": "utilitycraft_basic_reactor_on",
+							"texture": "utilitycraft_ryno_basic_reactor_on",
 							"render_method": "alpha_test"
 						}
 					},

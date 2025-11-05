@@ -1,21 +1,21 @@
 {
 	"texture_data": {
-		"utilitycraft_deepslate_lead_ore": {
+		"utilitycraft_ryno_deepslate_lead_ore": {
 			"textures": "textures/blocks/deepslate_lead_ore"
 		},
-		"utilitycraft_deepslate_uranium_ore": {
+		"utilitycraft_ryno_deepslate_uranium_ore": {
 			"textures": "textures/blocks/deepslate_uranium_ore"
 		},
-		"utilitycraft_reactor_concrete": {
+		"utilitycraft_ryno_reactor_concrete": {
 			"textures": "textures/blocks/reactor_concrete"
 		},
-		"utilitycraft_reactor_glass": {
+		"utilitycraft_ryno_reactor_glass": {
 			"textures": "textures/blocks/reactor_glass"
 		},
-		"utilitycraft_basic_reactor_off": {
+		"utilitycraft_ryno_basic_reactor_off": {
 			"textures": "textures/blocks/basic_reactor_off"
 		},
-		"utilitycraft_basic_reactor_on": {
+		"utilitycraft_ryno_basic_reactor_on": {
 			"textures": "textures/blocks/basic_reactor_on"
 		}
 	}

@@ -1,6 +1,6 @@
 {
-    "namespace": "reactor",
-    "reactor_top": {
+    "namespace": "ryno_reactor",
+    "ryno_reactor_top": {
         "type": "collection_panel",
         "anchor_from": "center",
         "anchor_to": "center",
@@ -115,7 +115,7 @@
                                 "layer": 5,
                                 "controls": [
                                     {
-                                        "reactor_top@reactor.reactor_top": {}
+                                        "ryno_reactor_top@ryno_reactor.ryno_reactor_top": {}
                                     },
                                     {
                                         "inventory_panel_bottom_half_with_label@common.inventory_panel_bottom_half_with_label": {}

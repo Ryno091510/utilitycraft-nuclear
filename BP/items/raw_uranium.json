@@ -2,13 +2,13 @@
 	"format_version": "1.20.80",
 	"minecraft:item": {
 		"description": {
-			"identifier": "utilitycraft:raw_uranium",
+			"identifier": "utilitycraft:ryno_raw_uranium",
 			"menu_category": {
 				"category": "nature"
 			}
 		},
 		"components": {
-			"minecraft:icon": "utilitycraft_raw_uranium"
+			"minecraft:icon": "utilitycraft_ryno_raw_uranium"
 		}
 	}
 }

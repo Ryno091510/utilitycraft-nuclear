@@ -2,22 +2,22 @@
 	"resource_pack_name": "UtilityCraft Nuclear",
 	"texture_name": "atlas.items",
 	"texture_data": {
-		"utilitycraft_raw_lead": {
+		"utilitycraft_ryno_raw_lead": {
 			"textures": "textures/items/raw_lead"
 		},
-		"utilitycraft_lead_ingot": {
+		"utilitycraft_ryno_lead_ingot": {
 			"textures": "textures/items/lead_ingot"
 		},
-		"utilitycraft_lead_plate": {
+		"utilitycraft_ryno_lead_plate": {
 			"textures": "textures/items/lead_plate"
 		},
-		"utilitycraft_raw_uranium": {
+		"utilitycraft_ryno_raw_uranium": {
 			"textures": "textures/items/raw_uranium"
 		},
-		"utilitycraft_nuclear_fuel": {
+		"utilitycraft_ryno_nuclear_fuel": {
 			"textures": "textures/items/nuclear_fuel"
 		},
-		"utilitycraft_refined_uranium": {
+		"utilitycraft_ryno_refined_uranium": {
 			"textures": "textures/items/refined_uranium"
 		}
 	}

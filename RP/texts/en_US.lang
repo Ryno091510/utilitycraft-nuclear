@@ -1,15 +1,15 @@
 pack.name=UtilityCraft Nuclear BP
 pack.description=Adds nuclear capabilities to UtilityCraft, including for power generation and explosives
-tile.utilitycraft:deepslate_lead_ore.name=Deepslate Lead Ore
-item.utilitycraft:raw_lead=Raw Lead
-item.utilitycraft:lead_ingot=Lead Ingot
-item.utilitycraft:lead_plate=Lead Plate
-tile.utilitycraft:deepslate_uranium_ore.name=Deepslate Uranium Ore
-item.utilitycraft:raw_uranium=Raw Uranium
-tile.utilitycraft:reactor_concrete.name=Reactor Concrete
-tile.utilitycraft:reactor_glass.name=Reactor Glass
-tile.utilitycraft:basic_reactor.name=Basic Reactor
-item.utilitycraft:nuclear_fuel=Nuclear Fuel
-item.utilitycraft:refined_uranium=Refined Uranium
+tile.utilitycraft:ryno_deepslate_lead_ore.name=Deepslate Lead Ore
+item.utilitycraft:ryno_raw_lead=Raw Lead
+item.utilitycraft:ryno_lead_ingot=Lead Ingot
+item.utilitycraft:ryno_lead_plate=Lead Plate
+tile.utilitycraft:ryno_deepslate_uranium_ore.name=Deepslate Uranium Ore
+item.utilitycraft:ryno_raw_uranium=Raw Uranium
+tile.utilitycraft:ryno_reactor_concrete.name=Reactor Concrete
+tile.utilitycraft:ryno_reactor_glass.name=Reactor Glass
+tile.utilitycraft:ryno_basic_reactor.name=Basic Reactor
+item.utilitycraft:ryno_nuclear_fuel=Nuclear Fuel
+item.utilitycraft:ryno_refined_uranium=Refined Uranium
 
-entity.utilitycraft:reactor.name=Reactor
+entity.utilitycraft:ryno_reactor.name=Reactor

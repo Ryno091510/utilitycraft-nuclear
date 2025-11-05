@@ -3,7 +3,7 @@ import { nuclearFuels } from "../../config/recipes/basic_reactor.js";
 
 const COLORS = DoriosAPI.constants.textColors
 
-DoriosAPI.register.blockComponent('basic_reactor', {
+DoriosAPI.register.blockComponent('ryno_basic_reactor', {
 
     /**
      * Runs before the machine is placed by the player.
