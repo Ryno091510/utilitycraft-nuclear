@@ -13,3 +13,4 @@ item.utilitycraft:ryno_nuclear_fuel=Nuclear Fuel
 item.utilitycraft:ryno_refined_uranium=Refined Uranium
 
 entity.utilitycraft:ryno_reactor.name=Reactor
+item.utilitycraft:ryno_empty_fuel_cell=Empty Fuel Cell

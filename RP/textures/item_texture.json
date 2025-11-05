@@ -19,6 +19,9 @@
 		},
 		"utilitycraft_ryno_refined_uranium": {
 			"textures": "textures/items/refined_uranium"
+		},
+		"utilitycraft_ryno_empty_fuel_cell": {
+			"textures": "textures/items/empty_fuel_cell"
 		}
 	}
 }
