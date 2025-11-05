@@ -5,4 +5,4 @@ Desktop.ini
 !.bridge/compiler/
 !.bridge/extensions
 builds
-config
+config.json

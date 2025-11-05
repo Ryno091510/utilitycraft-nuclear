@@ -22,14 +22,14 @@
 			}
 		},
 		"components": {
-			"utilitycraft:furnator": {
+			"utilitycraft:basic_reactor": {
 				"entity": {
-					"name": "furnator",
+					"name": "basic_reactor",
 					"type": "simple"
 				},
 				"generator": {
-					"energy_cap": 9600000,
-					"rate_speed_base": 6000
+					"energy_cap": 6400000,
+					"rate_speed_base": 4000
 				}
 			},
 			"minecraft:geometry": "geometry.utilitycraft_block_2",
