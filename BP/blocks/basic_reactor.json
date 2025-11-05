@@ -24,7 +24,7 @@
 		"components": {
 			"utilitycraft:basic_reactor": {
 				"entity": {
-					"name": "basic_reactor",
+					"name": "reactor",
 					"type": "simple"
 				},
 				"generator": {
