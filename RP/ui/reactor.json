@@ -82,7 +82,29 @@
                     ],
                     "collection_index": 2
                 }
-            }
+            },
+                {
+                    "reactor_icon_bg": {
+                        "type": "image",
+                        "texture": "textures/ui/bar_bg",
+                        "anchor_from": "center",
+                        "anchor_to": "center",
+                        "size": [72, 72],
+                        "offset": [114, -4],
+                        "layer": 0
+                    }
+                },
+                {
+                    "nuclear_icon": {
+                        "type": "image",
+                        "texture": "textures/ui/nuclear_icon",
+                        "anchor_from": "center",
+                        "anchor_to": "center",
+                        "size": [32, 32],
+                        "offset": [110, -4],
+                        "layer": 1
+                    }
+                }
         ]
     },
     "utility_panel": {
