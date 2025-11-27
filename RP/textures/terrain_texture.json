@@ -17,6 +17,12 @@
 		},
 		"utilitycraft_ryno_basic_reactor_on": {
 			"textures": "textures/blocks/basic_reactor_on"
+		},
+		"utilitycraft_ryno_energizer_on": {
+			"textures": "textures/blocks/ryno_energizer_on"
+		},
+		"utilitycraft_ryno_energizer_off": {
+			"textures": "textures/blocks/ryno_energizer_off"
 		}
 	}
 }

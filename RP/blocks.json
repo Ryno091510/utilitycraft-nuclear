@@ -20,5 +20,9 @@
 	},
 	"utilitycraft:ryno_basic_reactor": {
 		"sound": "stone"
+	},
+	"utilitycraft:ryno_energizer": {
+		"sound": "stone",
+		"textures": "utilitycraft_ryno_energizer"
 	}
 }
