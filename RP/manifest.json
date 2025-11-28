@@ -14,7 +14,7 @@
 			90
 		],
 		"uuid": "617d0747-c93f-4cd5-90b6-db87a53b6803",
-		"version": "0.1.1"
+		"version": "0.1.2"
 	},
 	"modules": [
 		{
@@ -30,7 +30,7 @@
 	"dependencies": [
 		{
 			"uuid": "cf0832aa-4dea-4213-9b66-d46e76ab4e2c",
-			"version": "0.1.1"
+			"version": "0.1.2"
 		}
 	]
 }

@@ -19,10 +19,10 @@
 			"textures": "textures/blocks/basic_reactor_on"
 		},
 		"utilitycraft_ryno_energizer_on": {
-			"textures": "textures/blocks/ryno_energizer_on"
+			"textures": "textures/blocks/energizer_on"
 		},
 		"utilitycraft_ryno_energizer_off": {
-			"textures": "textures/blocks/ryno_energizer_off"
+			"textures": "textures/blocks/energizer_off"
 		}
 	}
 }

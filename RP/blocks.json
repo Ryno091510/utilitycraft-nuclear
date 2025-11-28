@@ -22,7 +22,6 @@
 		"sound": "stone"
 	},
 	"utilitycraft:ryno_energizer": {
-		"sound": "stone",
-		"textures": "utilitycraft_ryno_energizer"
+		"sound": "stone"
 	}
 }
