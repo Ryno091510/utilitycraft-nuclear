@@ -45,7 +45,14 @@
 				}
 			},
 			"utilitycraft:machine_recipes": {
-				"type": "energizer"
+				"minecraft:iron_ingot": {
+					"output": "utilitycraft:energized_iron_ingot",
+					"amount": 1
+				},
+				"utilitycraft:ryno_raw_uranium": {
+					"output": "utilitycraft:ryno_refined_uranium",
+					"amount": 1
+				}
 			},
 			"minecraft:geometry": "geometry.utilitycraft_block_2",
 			"minecraft:material_instances": {
